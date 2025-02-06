@@ -1,6 +1,6 @@
 # SolidApi
 SOLID api + blazor solution
-This repo just serves as a landing page for the 2 projects below:
+This repo just serves as a landing page for the 2 related projects below, which are meant to be deployed separately:
 A SOLID-API with data access (to a local SQL database):
 https://github.com/ErikMogensenDK/Testamente
 
